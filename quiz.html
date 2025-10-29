@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Examen de Enfermería - Puerto Rico</title>
+    <link rel="stylesheet" href="src/quiz.css" />
+  </head>
+  <body>
+    <header class="quiz-header">
+      <h1>Examen de Enfermería - Puerto Rico</h1>
+      <nav>
+        <a href="src/index.html">Inicio</a>
+        <a href="src/about.html">Acerca</a>
+        <a href="quiz.html">Examen</a>
+        <a href="src/contact.html">Contacto</a>
+      </nav>
+    </header>
+
+    <div class="quiz-wrapper">
+      <!-- Sección principal del examen -->
+      <div class="quiz-section">
+        <h2 id="quiz-title">
+          Pregunta <span id="question-number">1</span>/<span
+            id="total-questions"
+            >200</span
+          >
+        </h2>
+
+        <!-- Barra de progreso -->
+        <div class="progress-bar">
+          <div id="progress" class="progress"></div>
+        </div>
+
+        <!-- Contenedor de pregunta -->
+        <div id="question-container">
+          <p id="question-text">Cargando pregunta...</p>
+          <ul id="answer-buttons"></ul>
+        </div>
+
+        <div class="btn-container">
+          <button id="prev-btn" class="btn">Anterior</button>
+          <button id="next-btn" class="btn">Siguiente</button>
+        </div>
+      </div>
+
+      <!-- Panel lateral -->
+      <aside class="sidebar">
+        <div class="score-box">
+          <h3 id="score-percent">0%</h3>
+          <p id="score-text">Has contestado 0 correctamente</p>
+        </div>
+
+        <ul id="question-tracker">
+          <!-- Seguimiento de preguntas -->
+        </ul>
+      </aside>
+    </div>
+
+    <script src="src/quiz.js"></script>
+  </body>
+</html>

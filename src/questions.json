@@ -1,0 +1,4202 @@
+[
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta hipertensión no controlada, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En recién nacido, ¿qué prueba rápida se realiza para evaluar la adaptación respiratoria al nacer? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Apgar al minuto y a los cinco minutos",
+        "correct": true
+      },
+      {
+        "text": "Hemoglobina completa",
+        "correct": false
+      },
+      {
+        "text": "Prueba de embarazo",
+        "correct": false
+      },
+      {
+        "text": "Test de glicemia a los 30 minutos",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la posición adecuada para auscultar los sonidos respiratorios posteriores? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Paciente sentado con el tronco inclinado hacia adelante",
+        "correct": true
+      },
+      {
+        "text": "Paciente en decúbito lateral izquierdo únicamente",
+        "correct": false
+      },
+      {
+        "text": "Paciente de pie con los brazos cruzados",
+        "correct": false
+      },
+      {
+        "text": "Paciente sentado con la cabeza reclinada hacia atrás",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para confusión aguda en anciano? (Farmacología)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la vía preferida para administrar epinefrina en paro cardiaco avanzado? (Farmacología)",
+    "answers": [
+      {
+        "text": "Intravenosa (o intraósea si no hay acceso IV)",
+        "correct": true
+      },
+      {
+        "text": "Oral",
+        "correct": false
+      },
+      {
+        "text": "Tópica",
+        "correct": false
+      },
+      {
+        "text": "Subcutánea",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Durante la toma de signos vitales, la presión arterial debe medirse con el manguito del tamaño apropiado. ¿Qué sucede si el manguito es demasiado pequeño? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "La lectura puede ser falsa y más alta de lo real",
+        "correct": true
+      },
+      {
+        "text": "La lectura será más baja de lo real",
+        "correct": false
+      },
+      {
+        "text": "No afecta la lectura",
+        "correct": false
+      },
+      {
+        "text": "Solo afecta la frecuencia cardíaca",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la acción antagónica del naloxone (naloxona)? (Farmacología)",
+    "answers": [
+      {
+        "text": "Reversar los efectos de los opioides",
+        "correct": true
+      },
+      {
+        "text": "Potenciar la sedación por benzodiacepinas",
+        "correct": false
+      },
+      {
+        "text": "Inducir reacciones alérgicas",
+        "correct": false
+      },
+      {
+        "text": "Reducir la presión arterial",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En Puerto Rico, si hay sospecha de abuso infantil, ¿qué debe hacer la enfermera? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Reportar según leyes locales y coordinar protección inmediata del menor",
+        "correct": true
+      },
+      {
+        "text": "Esperar a que otro profesional lo reporte",
+        "correct": false
+      },
+      {
+        "text": "No intervenir para evitar complicaciones legales",
+        "correct": false
+      },
+      {
+        "text": "Publicar la sospecha en redes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Farmacología)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Una madre lactante consulta por dolor mamario y enrojecimiento focal. ¿Cuál es una intervención apropiada? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar por mastitis y aconsejar lactancia frecuente o extracción y tratamiento según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Recomendar suspender la lactancia definitivamente",
+        "correct": false
+      },
+      {
+        "text": "Aplicar alcohol en la zona",
+        "correct": false
+      },
+      {
+        "text": "No tocar el seno",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta hipertensión no controlada, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para náuseas y vómitos persistentes? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para confusión aguda en anciano? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "La confidencialidad del paciente es fundamental. ¿Cuál ley o principio protege la información médica en general? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Confidencialidad y normas de privacidad; aplicar consentimiento informado y manejo seguro de registros",
+        "correct": true
+      },
+      {
+        "text": "Publicidad de datos del paciente sin consentimiento",
+        "correct": false
+      },
+      {
+        "text": "Compartir información en redes sociales libremente",
+        "correct": false
+      },
+      {
+        "text": "No documentar nada en la historia clínica",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Farmacología)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta dificultad respiratoria aguda? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Un paciente toma warfarina. ¿Qué prueba de laboratorio es más útil para monitorizar la terapia? (Farmacología)",
+    "answers": [
+      {
+        "text": "Tiempo de protrombina/INR",
+        "correct": true
+      },
+      {
+        "text": "Hemograma completo",
+        "correct": false
+      },
+      {
+        "text": "Electrolitos séricos",
+        "correct": false
+      },
+      {
+        "text": "Prueba de función tiroidea",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la técnica correcta para la higienización de manos cuando están visiblemente sucias? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Lavado con agua y jabón durante al menos 20 segundos",
+        "correct": true
+      },
+      {
+        "text": "Uso de desinfectante a base de alcohol sin agua",
+        "correct": false
+      },
+      {
+        "text": "Solo enjuagarse con agua",
+        "correct": false
+      },
+      {
+        "text": "Frotar manos con toallas secas",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Qué significa consentimiento informado? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "El paciente recibe información clara sobre riesgos, beneficios y alternativas y otorga permiso de forma voluntaria",
+        "correct": true
+      },
+      {
+        "text": "Firmar cualquier documento sin explicación",
+        "correct": false
+      },
+      {
+        "text": "Consentir solo por el familiar sin información al paciente",
+        "correct": false
+      },
+      {
+        "text": "Consentir después del procedimiento",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Un paciente con insuficiencia cardiaca presenta edema periférico. ¿Cuál es una medida de enfermería apropiada? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Elevar extremidades y monitorizar ingesta y salida",
+        "correct": true
+      },
+      {
+        "text": "Administrar líquidos a libre demanda",
+        "correct": false
+      },
+      {
+        "text": "Evitar movilización por completo",
+        "correct": false
+      },
+      {
+        "text": "Incrementar sodio en la dieta",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar signos de trombosis venosa profunda, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Qué acción de enfermería es prioritaria con un paciente que presenta signos de choque séptico? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y acceso IV, iniciar líquidos según protocolo y avisar al equipo médico",
+        "correct": true
+      },
+      {
+        "text": "Esperar 24 horas antes de actuar",
+        "correct": false
+      },
+      {
+        "text": "Administrar antibióticos sin comunicación con el equipo",
+        "correct": false
+      },
+      {
+        "text": "Retirar IV existentes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para confusión aguda en anciano? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Farmacología)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar signos de trombosis venosa profunda, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para náuseas y vómitos persistentes? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la posición recomendada para la lactancia que favorece el agarre correcto del recién nacido? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Posición cuna (cradle) o posición de balón de rugby según preferencia y soporte",
+        "correct": true
+      },
+      {
+        "text": "Recién nacido boca abajo sobre el pecho",
+        "correct": false
+      },
+      {
+        "text": "Recién nacido alimentado solo con biberón",
+        "correct": false
+      },
+      {
+        "text": "Posición invertida de la madre",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta dificultad respiratoria aguda? (Farmacología)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente con dieta diabética, ¿por qué es importante la educación sobre conteo de carbohidratos? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Para ajustar dosis de insulina y prevenir hipoglucemia/hiperglucemia",
+        "correct": true
+      },
+      {
+        "text": "Para evitar toda proteína en la dieta",
+        "correct": false
+      },
+      {
+        "text": "Para prevenir infección urinaria",
+        "correct": false
+      },
+      {
+        "text": "No es importante en pacientes con diabetes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para náuseas y vómitos persistentes? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Farmacología)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para confusión aguda en anciano? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Farmacología)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de la movilización temprana postoperatoria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Reducir complicaciones respiratorias y trombosis venosa profunda",
+        "correct": true
+      },
+      {
+        "text": "Aumentar el dolor del paciente",
+        "correct": false
+      },
+      {
+        "text": "Prolongar la estancia hospitalaria",
+        "correct": false
+      },
+      {
+        "text": "Evitar la comunicación con la familia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta dificultad respiratoria aguda? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el signo de alarma en un recién nacido que requiere evaluación inmediata? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Respiración con tiraje y cianosis perioral",
+        "correct": true
+      },
+      {
+        "text": "Llanto vigoroso",
+        "correct": false
+      },
+      {
+        "text": "Sueño profundo después de comer",
+        "correct": false
+      },
+      {
+        "text": "Color rosado normal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Durante el trabajo de parto, ¿qué intervención realiza la enfermera para evaluar la progresión? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Registrar la frecuencia y duración de las contracciones y dilatación cervical",
+        "correct": true
+      },
+      {
+        "text": "Administrar antibióticos profilácticos rutinariamente",
+        "correct": false
+      },
+      {
+        "text": "Sudar al paciente para acelerar el parto",
+        "correct": false
+      },
+      {
+        "text": "Evitar monitoreo fetal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Farmacología)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta hipertensión no controlada, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Postoperatorio inmediato: ¿qué signo indica posible hemorragia interna? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Aumento de la frecuencia cardíaca y descenso de la presión arterial",
+        "correct": true
+      },
+      {
+        "text": "Mejoría de la temperatura",
+        "correct": false
+      },
+      {
+        "text": "Disminución del dolor",
+        "correct": false
+      },
+      {
+        "text": "Orina clara y abundante",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la función principal de un drenaje torácico? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Eliminar aire o líquido de la cavidad pleural para restablecer la expansión pulmonar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medicamentos por vía pleural",
+        "correct": false
+      },
+      {
+        "text": "Medir la presión arterial",
+        "correct": false
+      },
+      {
+        "text": "Hidratar al paciente",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Qué aspecto ético es clave en la investigación con pacientes humanos? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Obtener consentimiento informado y proteger la confidencialidad y bienestar de los participantes",
+        "correct": true
+      },
+      {
+        "text": "Forzar la participación",
+        "correct": false
+      },
+      {
+        "text": "Compartir datos sin permiso",
+        "correct": false
+      },
+      {
+        "text": "No evaluar riesgos",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Farmacología)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Al administrar un antibiótico aminoglucósido, ¿qué función renal se debe monitorizar estrechamente? (Farmacología)",
+    "answers": [
+      {
+        "text": "Tasa de filtración glomerular / creatinina",
+        "correct": true
+      },
+      {
+        "text": "Función hepática",
+        "correct": false
+      },
+      {
+        "text": "Presión arterial",
+        "correct": false
+      },
+      {
+        "text": "Nivel de glucosa en sangre",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para náuseas y vómitos persistentes? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar herida quirúrgica con enrojecimiento, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para signos de trombosis venosa profunda? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Farmacología)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta hipertensión no controlada, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para náuseas y vómitos persistentes? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Farmacología)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para confusión aguda en anciano? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar signos de trombosis venosa profunda, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta hipertensión no controlada, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta fiebre alta y escalofríos, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Un paciente recibe insulina regular. ¿Cuál es la vía habitual para su administración en situaciones de acción rápida? (Farmacología)",
+    "answers": [
+      {
+        "text": "Subcutánea",
+        "correct": true
+      },
+      {
+        "text": "Oral",
+        "correct": false
+      },
+      {
+        "text": "Intramuscular",
+        "correct": false
+      },
+      {
+        "text": "Tópica",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Al movilizar un paciente con riesgo de caída, ¿qué precaución es esencial? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Colocar frenos en la cama y usar cinturón de transferencia si corresponde",
+        "correct": true
+      },
+      {
+        "text": "Levantar al paciente sin ayuda para evitar retrasos",
+        "correct": false
+      },
+      {
+        "text": "Pedir al paciente que salte para evaluar equilibrio",
+        "correct": false
+      },
+      {
+        "text": "Retirar todos los dispositivos de apoyo inmediatamente",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Farmacología)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para dolor torácico súbito? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta dificultad respiratoria aguda? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar confusión aguda en anciano, ¿qué debe realizar la enfermera primero? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Revisar medicación, signos vitales y glucosa capilar",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Farmacología)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Farmacología)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta dificultad respiratoria aguda? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta palpitaciones y mareo? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Enfermería médico-quirúrgica)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta hipertensión no controlada? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Monitorizar TA y revisar medicación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar signos de trombosis venosa profunda, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta reducción súbita del nivel de conciencia? (Salud materno-infantil)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta dificultad respiratoria aguda, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Administrar oxígeno y monitorizar saturación",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto cuando se detecta fiebre alta y escalofríos? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Iniciar análisis microbiológico y terapia según protocolo",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta palpitaciones y mareo, ¿qué acción es prioritaria? (Farmacología)",
+    "answers": [
+      {
+        "text": "Comprobar ritmo cardíaco y perfusión",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar signos de trombosis venosa profunda, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Elevar extremidad y notificar para evaluación Doppler",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar náuseas y vómitos persistentes, ¿qué debe realizar la enfermera primero? (Farmacología)",
+    "answers": [
+      {
+        "text": "Evaluar signos de deshidratación y equilibrio electrolítico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En un paciente que presenta reducción súbita del nivel de conciencia, ¿qué acción es prioritaria? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Asegurar vía aérea y evaluar signos neurológicos",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para evaluar dolor torácico súbito, ¿qué debe realizar la enfermera primero? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Evaluar signos vitales, oxigenar y notificar al médico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la intervención de enfermería más apropiada para herida quirúrgica con enrojecimiento? (Fundamentos de enfermería)",
+    "answers": [
+      {
+        "text": "Valorar por infección y realizar cuidado de herida aseptico",
+        "correct": true
+      },
+      {
+        "text": "Administrar medidas que no corresponden y retrasar el diagnóstico",
+        "correct": false
+      },
+      {
+        "text": "Ignorar y observar sin intervenir",
+        "correct": false
+      },
+      {
+        "text": "Aplicar tratamiento experimental sin orden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la responsabilidad profesional al recibir una orden médica que parece peligrosa? (Ética y leyes en Puerto Rico)",
+    "answers": [
+      {
+        "text": "Clarificar y verificar la orden con el médico antes de administrarla",
+        "correct": true
+      },
+      {
+        "text": "Administrarla sin cuestionar",
+        "correct": false
+      },
+      {
+        "text": "Ignorarla y no informar",
+        "correct": false
+      },
+      {
+        "text": "Publicarla en medios",
+        "correct": false
+      }
+    ]
+  }
+]
