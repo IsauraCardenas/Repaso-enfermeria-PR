@@ -13,7 +13,7 @@ const totalQuestionsEl = document.getElementById("total-questions");
 const progressBar = document.getElementById("progress");
 
 // --- Cargar preguntas desde JSON ---
-fetch("src/questions.json")
+fetch("/questions.json")
   .then((response) => {
     if (!response.ok)
       throw new Error("No se pudo cargar el archivo de preguntas.");
