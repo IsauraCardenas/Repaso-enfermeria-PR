@@ -1,8 +1,109 @@
-let questions = [];
+const questions = [
+  {
+    question: "¿Cuál es la frecuencia cardíaca normal en un adulto en reposo?",
+    answers: [
+      { text: "60-100 latidos por minuto", correct: true },
+      { text: "40-60 latidos por minuto", correct: false },
+      { text: "100-120 latidos por minuto", correct: false },
+      { text: "120-140 latidos por minuto", correct: false },
+    ],
+  },
+  {
+    question: "¿Cuál es el valor normal de la presión arterial en adultos?",
+    answers: [
+      { text: "120/80 mmHg", correct: true },
+      { text: "90/60 mmHg", correct: false },
+      { text: "140/90 mmHg", correct: false },
+      { text: "160/100 mmHg", correct: false },
+    ],
+  },
+  {
+    question:
+      "¿Qué tipo de aislamiento se usa para un paciente con tuberculosis?",
+    answers: [
+      { text: "Aislamiento por contacto", correct: false },
+      { text: "Aislamiento respiratorio (por aire)", correct: true },
+      { text: "Aislamiento protector", correct: false },
+      { text: "Aislamiento por gotas", correct: false },
+    ],
+  },
+  {
+    question:
+      "¿Qué parte del cuerpo se usa comúnmente para medir la temperatura axilar?",
+    answers: [
+      { text: "En la boca", correct: false },
+      { text: "En la axila", correct: true },
+      { text: "En el oído", correct: false },
+      { text: "En el recto", correct: false },
+    ],
+  },
+  {
+    question: "¿Qué instrumento se usa para medir la presión arterial?",
+    answers: [
+      { text: "Estetoscopio", correct: false },
+      { text: "Termómetro", correct: false },
+      { text: "Esfigmomanómetro", correct: true },
+      { text: "Oxímetro de pulso", correct: false },
+    ],
+  },
+  {
+    question: "¿Cuál es la función principal de los glóbulos rojos?",
+    answers: [
+      { text: "Transportar oxígeno", correct: true },
+      { text: "Defender el cuerpo", correct: false },
+      { text: "Coagular la sangre", correct: false },
+      { text: "Producir energía", correct: false },
+    ],
+  },
+  {
+    question: "¿Qué medida de temperatura se considera fiebre?",
+    answers: [
+      { text: "Más de 37.5°C", correct: true },
+      { text: "Menos de 35°C", correct: false },
+      { text: "Exactamente 36°C", correct: false },
+      { text: "Entre 36.5°C y 37°C", correct: false },
+    ],
+  },
+  {
+    question:
+      "¿Qué tipo de técnica se utiliza al administrar una inyección intramuscular?",
+    answers: [
+      { text: "Técnica estéril", correct: true },
+      { text: "Técnica limpia", correct: false },
+      { text: "Técnica quirúrgica", correct: false },
+      { text: "Técnica cerrada", correct: false },
+    ],
+  },
+  {
+    question:
+      "¿Cuál es el sitio recomendado para administrar una inyección IM en un adulto?",
+    answers: [
+      { text: "Deltoide", correct: true },
+      { text: "Vasto externo", correct: false },
+      { text: "Glúteo medio", correct: false },
+      { text: "Recto femoral", correct: false },
+    ],
+  },
+  {
+    question: "¿Qué nivel de saturación de oxígeno (SpO2) se considera normal?",
+    answers: [
+      { text: "95-100%", correct: true },
+      { text: "80-90%", correct: false },
+      { text: "70-80%", correct: false },
+      { text: "60-70%", correct: false },
+    ],
+  },
+];
+
+// ======================
+// VARIABLES GLOBALES
+// ======================
 let currentQuestionIndex = 0;
 let score = 0;
 
-// Elementos
+// ======================
+// ELEMENTOS DEL DOM
+// ======================
 const questionText = document.getElementById("question-text");
 const answerButtons = document.getElementById("answer-buttons");
 const nextBtn = document.getElementById("next-btn");
@@ -12,25 +113,16 @@ const questionNumberEl = document.getElementById("question-number");
 const totalQuestionsEl = document.getElementById("total-questions");
 const progressBar = document.getElementById("progress");
 
-// --- Cargar preguntas desde JSON ---
-fetch("/questions.json")
-  .then((response) => {
-    if (!response.ok)
-      throw new Error("No se pudo cargar el archivo de preguntas.");
-    return response.json();
-  })
-  .then((data) => {
-    questions = data;
-    totalQuestionsEl.textContent = questions.length;
-    showQuestion();
-  })
-  .catch((error) => console.error("Error al cargar preguntas:", error));
+// ======================
+// INICIALIZAR QUIZ
+// ======================
+totalQuestionsEl.textContent = questions.length;
+showQuestion();
 
-// --- Mostrar pregunta actual ---
+// ======================
+// MOSTRAR PREGUNTA
+// ======================
 function showQuestion() {
-  if (!questions.length) return;
-
-  // Fin del examen
   if (currentQuestionIndex >= questions.length) {
     showFinalScore();
     return;
@@ -48,7 +140,6 @@ function showQuestion() {
     answerButtons.appendChild(li);
   });
 
-  // Actualizar número y barra de progreso
   questionNumberEl.textContent = currentQuestionIndex + 1;
   updateProgressBar();
 
@@ -56,10 +147,11 @@ function showQuestion() {
   nextBtn.textContent = "Siguiente";
 }
 
-// --- Seleccionar respuesta ---
+// ======================
+// SELECCIONAR RESPUESTA
+// ======================
 function selectAnswer(selected, correct) {
   const allAnswers = document.querySelectorAll(".answer");
-
   allAnswers.forEach((btn) => btn.classList.add("disabled"));
 
   if (correct) {
@@ -77,34 +169,39 @@ function selectAnswer(selected, correct) {
   nextBtn.disabled = false;
 }
 
-// --- Actualizar marcador ---
+// ======================
+// ACTUALIZAR PUNTAJE
+// ======================
 function updateScoreDisplay() {
   const percent = Math.round((score / (currentQuestionIndex + 1)) * 100);
   scorePercent.textContent = `${percent}%`;
   scoreText.textContent = `Has contestado ${score} correctamente`;
 }
 
-// --- Actualizar barra de progreso ---
+// ======================
+// BARRA DE PROGRESO
+// ======================
 function updateProgressBar() {
   const progressPercent = (currentQuestionIndex / questions.length) * 100;
   progressBar.style.width = `${progressPercent}%`;
 }
 
-// --- Botón siguiente ---
+// ======================
+// BOTÓN SIGUIENTE
+// ======================
 nextBtn.addEventListener("click", () => {
-  nextBtn.disabled = true;
   currentQuestionIndex++;
   showQuestion();
 });
 
-// --- Mostrar resultado final ---
+// ======================
+// RESULTADO FINAL
+// ======================
 function showFinalScore() {
   questionText.textContent = `¡Examen terminado! Obtuviste ${score} de ${questions.length} preguntas correctas. 🎉`;
   answerButtons.innerHTML = "";
   nextBtn.textContent = "Reintentar";
   nextBtn.disabled = false;
   nextBtn.onclick = () => location.reload();
-
-  // Llenar la barra al 100%
   progressBar.style.width = "100%";
 }
